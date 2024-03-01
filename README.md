@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevinDinhDev
 - 👀 I’m interested in Computers, music, video games, community, volleyball, and skiing!
-- 🌱 I’m currently learning how to program in my first language, Java.
+- 🌱 I’m currently learning how to program with Java, Python, and Javascript.
 - 💞️ I’m looking to collaborate on fun or educational projects.
 - 📫 You can reach me at kevindinhdev@gmail.com
 
