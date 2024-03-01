@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on fun or educational projects.
 - 📫 You can reach me at kevindinhdev@gmail.com
 
+
+## **Languages and Tools**
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,html,nodejs,docker,eclipse,vscode,mysql,powershell)](https://skillicons.dev)
+
 <!---
 KevinDinhDev/KevinDinhDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
