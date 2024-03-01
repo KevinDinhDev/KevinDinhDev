@@ -6,7 +6,7 @@
 
 
 ## **Languages and Tools**
-[![My Skills](https://skillicons.dev/icons?i=js,java,python,html,nodejs,docker,eclipse,vscode,mysql,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,html,css,nodejs,docker,eclipse,vscode,mysql,powershell)](https://skillicons.dev)
 
 <!---
 KevinDinhDev/KevinDinhDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
